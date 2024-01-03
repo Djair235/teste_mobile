@@ -1,0 +1,26 @@
+@media screen and (max-width: 767px) {
+html, body {
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#div-h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: #666;
+    border-bottom: 3.5px solid black;
+    font-size: 25px;
+    color: white;
+    height: 200px;
+    width: 100%;
+
+}
+
+#lorem {
+    font-size: 25px;
+}
+}
